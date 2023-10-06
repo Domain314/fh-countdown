@@ -1,0 +1,22 @@
+{
+    "preview": {
+        "start": "<div id='preview-$' class='preview-main'>",
+        "end": "</div>"
+    },
+    "preview-bar": {
+        "start": "<div class='preview-bar'>",
+        "end": "</div>"
+    },
+    "buttons": {
+        "button-l": "<button id='preview-move-left-$'>&lt;</button>",
+        "button-r": "<button id='preview-move-right-$'>&gt;</button>",
+        "button-x": "<button id='preview-delete-$' class='preview-delete'>X</button>"
+    },
+    "content": {
+        "start": "<div class='preview-content'>",
+        "title": "<h3>$</h3>",
+        "text": "<p>$</p>",
+        "photo": "<img width='100%' src='$'>",
+        "end": "</div>"
+    }
+}

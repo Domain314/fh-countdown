@@ -1,0 +1,71 @@
+{
+    "collection": "customers",
+    "inputs": [
+        {
+            "name": "title",
+            "labelContent": "<b>Name</b>",
+            "labelClasses": [
+                ""
+            ],
+            "inputClasses": [
+                ""
+            ],
+            "inputId": "title",
+            "inputType": "text",
+            "inputPlaceholder": "Name des Kunden",
+            "inputValue": ""
+        },
+        {
+            "name": "text",
+            "labelContent": "<b>Text</b>",
+            "labelClasses": [
+                ""
+            ],
+            "inputClasses": [
+                ""
+            ],
+            "inputId": "text",
+            "inputType": "textarea",
+            "inputPlaceholder": "Geile Show! Danke.",
+            "inputValue": ""
+        },
+        {
+            "name": "photo",
+            "labelContent": "<b>Foto</b>",
+            "labelClasses": [
+                ""
+            ],
+            "inputClasses": [
+                ""
+            ],
+            "inputId": "photo",
+            "inputType": "file"
+        },
+        {
+            "name": "position",
+            "labelContent": "",
+            "labelClasses": [
+                ""
+            ],
+            "inputClasses": [
+                ""
+            ],
+            "inputId": "position",
+            "inputType": "hidden"
+        },
+        {
+            "name": "id",
+            "labelContent": "",
+            "labelClasses": [
+                ""
+            ],
+            "inputClasses": [
+                ""
+            ],
+            "inputId": "id",
+            "inputType": "hidden"
+        }
+    ],
+    "htmlBefore": "<form action='#' onsubmit='return false;'>",
+    "htmlAfter": "<button id='submit'>Upload</button></form>"
+}

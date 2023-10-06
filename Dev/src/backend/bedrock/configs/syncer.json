@@ -1,0 +1,28 @@
+{
+    "syncer": {
+        "col": "syncer",
+        "id": "syncer-v1",
+        "version": 1,
+        "nextBackup": 0
+    },
+    "customers": {
+        "col": "customers",
+        "id": "",
+        "list": []
+    },
+    "employees": {
+        "col": "employees",
+        "id": "",
+        "list": []
+    },
+    "photos": {
+        "col": "photos",
+        "id": "",
+        "list": []
+    },
+    "dbs": [
+        "customers",
+        "employees",
+        "photos"
+    ]
+}
