@@ -26,5 +26,7 @@ export function consoleAsciiArt() {
         'color: #4ade80; font-family: monospace',
         'color: #4ade80; font-family: monospace',
     );
-    // console.log = function () { };
+    console.log = function () { };
+    console.warn = function () { };
+    console.error = function () { };
 }

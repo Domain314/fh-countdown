@@ -1,15 +1,16 @@
 const config = {
-    apiKey: "AIzaSyBp1FqsTcv1l1Vp06rviJkGw50QU17GGk4",
+    apiKey: "AIzaSyA1fJJJ1unae0bh_Z7oB7a08h6kb8iJX4Y",
 
-    authDomain: "testing-ground-274.firebaseapp.com",
+    authDomain: "fh-countdown.firebaseapp.com",
 
-    projectId: "testing-ground-274",
+    projectId: "fh-countdown",
 
-    storageBucket: "testing-ground-274.appspot.com",
+    storageBucket: "fh-countdown.appspot.com",
 
-    messagingSenderId: "587702661573",
+    messagingSenderId: "914140207530",
 
-    appId: "1:587702661573:web:5deffa964ddc828e7a5bac"
+    appId: "1:914140207530:web:af1bfc3394dd96840973d3"
+
 
 };
 
